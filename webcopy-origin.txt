@@ -1,0 +1,24 @@
+Uri: https://methamphetamine.solutions/
+File Name: C:\Downloaded Web Sites\methamphetamine.solutions\index.htm
+Content Type: text/html
+
+Uri: https://pro.fontawesome.com/releases/v5.13.0/css/all.css
+File Name: C:\Downloaded Web Sites\methamphetamine.solutions\releases\v5.13.0\css\all.css
+Content Type: text/css
+
+Uri: https://methamphetamine.solutions/style.css
+File Name: C:\Downloaded Web Sites\methamphetamine.solutions\style.css
+Content Type: text/css
+
+Uri: https://methamphetamine.solutions/animate.css
+File Name: C:\Downloaded Web Sites\methamphetamine.solutions\animate.css
+Content Type: text/css
+
+Uri: https://methamphetamine.solutions/msc.mp3
+File Name: C:\Downloaded Web Sites\methamphetamine.solutions\msc.mp3
+Content Type: audio/mpeg
+
+Uri: https://unpkg.com/typewriter-effect@2.17.0/dist/core.js
+File Name: C:\Downloaded Web Sites\methamphetamine.solutions\typewriter-effect@2.17.0\dist\core.js
+Content Type: application/javascript
+
